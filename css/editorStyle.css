@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.italic {
+  font-style: italic;
+}
+textarea {
+  height: 250px;
+  max-height: 55vh;
+  box-sizing: border-box;
+  font-size: .9rem;
+}
+.light-icon,.dark-icon {
+  font-size: 32px;
+  margin-right: .5rem;
+}
+.dark {
+  background-color: #14111d!important;
+  color: #fff;
+}
